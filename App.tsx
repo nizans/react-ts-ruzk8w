@@ -1,4 +1,4 @@
-import { AccordionDetails, AccordionSummary, Typography } from '@mui/material';
+import { AccordionSummary, Typography } from '@mui/material';
 import Accordion from '@mui/material/Accordion/Accordion';
 import * as React from 'react';
 import './style.css';
