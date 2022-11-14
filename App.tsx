@@ -19,11 +19,6 @@ export default function App() {
         </AccordionSummary>
         I SHOULD SEE SVG HERE: <SVG />
       </Accordion>
-      <Accordion disabled>
-        <AccordionSummary aria-controls="panel3a-content" id="panel3a-header">
-          <Typography>Disabled Accordion</Typography>
-        </AccordionSummary>
-      </Accordion>
       I SHOULD SEE SVG HERE: <SVG />
     </div>
   );
